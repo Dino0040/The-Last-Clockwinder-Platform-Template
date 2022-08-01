@@ -1,0 +1,24 @@
+{
+  "name": "Clockwork.Core",
+  "references": [
+    "Fmod.Runtime",
+    "Asg.Utilities.Unity",
+    "ExecutionOrder",
+    "UniRx.asmdef",
+    "Newtonsoft.Json",
+    "Sirenix.Serialization",
+    "Unity.InputSystem",
+    "Clockwork.Core.Harness",
+    "Clockwork.Core.Input",
+    "Asg.Utilities.General",
+    "KinematicCharacterController.Core",
+    "Sirenix.Utilities",
+    "Sirenix.Serialization.Config",
+    "Clockwork.Core.Serialization.Json",
+    "Oculus.VR",
+    "Unity.XR.OpenXR",
+    "Unity.XR.Oculus",
+    "MoreLinq"
+  ],
+  "allowUnsafeCode": true
+}

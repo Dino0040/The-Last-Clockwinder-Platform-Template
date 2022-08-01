@@ -1,0 +1,9 @@
+{
+  "name": "Asg.Utilities.Unity",
+  "references": [
+    "UniRx.asmdef",
+    "Asg.Utilities.General",
+    "MoreLinq"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bac43ad28a00043408fe12d9671700fb, type: 3}
+  m_Name: TransmuterRecipes
+  m_EditorClassIdentifier:
+  Recipes:
+  - Input:
+      Nodes:
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      Edges:
+      - Left: 0
+        Right: 1
+      - Left: 1
+        Right: 2
+    Outputs: 0f0000000f000000
+  - Input:
+      Nodes:
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 22
+      Edges:
+      - Left: 0
+        Right: 3
+      - Left: 1
+        Right: 3
+      - Left: 2
+        Right: 3
+    Outputs: 1a0000001a000000
+  - Input:
+      Nodes:
+      - Flavor: 5
+      - Flavor: 4
+      - Flavor: 4
+      - Flavor: 5
+      Edges:
+      - Left: 0
+        Right: 1
+      - Left: 1
+        Right: 2
+      - Left: 2
+        Right: 3
+    Outputs: 10000000
+  - Input:
+      Nodes:
+      - Flavor: 19
+      - Flavor: 19
+      Edges:
+      - Left: 0
+        Right: 1
+    Outputs: 1200000012000000
+  - Input:
+      Nodes:
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      - Flavor: 5
+      Edges:
+      - Left: 0
+        Right: 1
+      - Left: 1
+        Right: 2
+      - Left: 2
+        Right: 3
+      - Left: 0
+        Right: 4
+      - Left: 1
+        Right: 5
+      - Left: 2
+        Right: 6
+      - Left: 3
+        Right: 7
+    Outputs: 1e0000001e000000
+  - Input:
+      Nodes:
+      - Flavor: 4
+      - Flavor: 5
+      - Flavor: 24
+      - Flavor: 22
+      - Flavor: 19
+      Edges:
+      - Left: 0
+        Right: 1
+      - Left: 1
+        Right: 2
+      - Left: 2
+        Right: 3
+      - Left: 3
+        Right: 4
+    Outputs: 1f0000001f0000001f000000
+  - Input:
+      Nodes:
+      - Flavor: 24
+      - Flavor: 19
+      Edges:
+      - Left: 0
+        Right: 1
+    Outputs: 2000000020000000

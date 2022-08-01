@@ -70,3 +70,16 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# The Last Clockwinder
+/[Aa]ssets/Clockwork/**/*.asset
+/[Aa]ssets/Clockwork/**/*.png
+
+/[Aa]ssets/AssetBundles
+
+/[Aa]ssets/Scenes/*/Lightmap-*_comp_dir.png*
+/[Aa]ssets/Scenes/*/Lightmap-*_comp_light.exr*
+/[Aa]ssets/Scenes/*/ReflectionProbe-*.exr*
+/[Aa]ssets/*_Day.asset*
+
+/[Aa]ssets/**/*.blend[0-9]*

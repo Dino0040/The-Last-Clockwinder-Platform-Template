@@ -1,0 +1,15 @@
+{
+  "name": "NewtonVR",
+  "references": [
+    "Asg.Utilities.Unity",
+    "ExecutionOrder",
+    "Clockwork.Core",
+    "UniRx.asmdef",
+    "Fmod.Runtime",
+    "Clockwork.Core.Harness",
+    "Asg.Utilities.General",
+    "Unity.InputSystem",
+    "Clockwork.Core.Input"
+  ],
+  "allowUnsafeCode": true
+}

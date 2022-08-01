@@ -1,0 +1,31 @@
+{
+  "name": "Clockwork.Game",
+  "references": [
+    "Unity.TextMeshPro",
+    "UniRx.asmdef",
+    "ModernUIPack",
+    "ExecutionOrder",
+    "Clockwork.Core",
+    "Asg.Utilities.Unity",
+    "Fmod.Runtime",
+    "NewtonVR",
+    "Clockwork.Global.Scripts",
+    "Unity.InputSystem",
+    "Asg.Utilities.General",
+    "Unity.Timeline",
+    "Oculus.VR",
+    "Newtonsoft.Json",
+    "Clockwork.Core.Harness",
+    "Unity.RenderPipelines.Core.Runtime",
+    "MaterialPropertyOverride",
+    "Clockwork.Core.Input",
+    "com.rlabrecque.steamworks.net",
+    "Oculus.Platform",
+    "DOTween",
+    "Sirenix.Utilities",
+    "Unity.XR.OpenXR",
+    "Unity.Animation.Rigging",
+    "MoreLinq"
+  ],
+  "allowUnsafeCode": true
+}
